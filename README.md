@@ -1,0 +1,1 @@
+# Subtract-the-product-and-sum-of-digits-of-an-integer
